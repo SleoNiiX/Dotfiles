@@ -1,0 +1,2 @@
+# Dotfiles
+ first hyprland config
