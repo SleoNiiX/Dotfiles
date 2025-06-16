@@ -47,6 +47,7 @@ Make sure you have these installed:
  - hyprpaper (wallpaper manager for Hyprland)
  - hyprlock (screen locker compatible with Hyprland)
  - bash (of course!)
+ - **Iosevka Nerd Font** for icons in Waybar and other apps
 
 On EndeavourOS / Arch:
 ```bash
