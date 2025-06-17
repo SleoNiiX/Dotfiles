@@ -48,10 +48,12 @@ Make sure you have these installed:
  - hyprlock (screen locker compatible with Hyprland)
  - bash (of course!)
  - **Iosevka Nerd Font** for icons in Waybar and other apps
+ - gvfs (file system utilities, useful for some apps)
+ - libnotify (used for notifications in Waybar or other tools)
 
 On EndeavourOS / Arch:
 ```bash
-sudo pacman -S hyprland waybar pywal hyprpaper hyprlock
+sudo pacman -S hyprland waybar pywal hyprpaper hyprlock gvfs libnotify
 ```
 
 ### 4. Using Pywal
