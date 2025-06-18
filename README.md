@@ -72,3 +72,11 @@ Go check them, they explain better than me :
 ---
 
 > Enjoy ;)
+
+
+
+---
+
+New Start
+
+yay -S ttf-terminus-nerd
